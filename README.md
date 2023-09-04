@@ -19,9 +19,12 @@
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
-# Answer sheet grader Project <a name="about-project"></a>
+# Story Generator <a name="about-project"></a>
 > a decorative picture or a screenshot of the project results.
 > a discription of project in about a paragraph.
+
+# Output in streamlit
+https://github.com/AmirRezaEskandarani/story_generator/blob/main/output.mp4
 
 ## Built With <a name="built-with"></a>
 
