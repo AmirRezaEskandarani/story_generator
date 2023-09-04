@@ -9,7 +9,6 @@
 - [Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
 - [Authors](#authors)
@@ -65,14 +64,6 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone git@github.com:AmirRezaEskandarani/story_generator.git
 ```
-
-### Install
-
-Install this project with:
-```sh
-something
-```
-
 
 ### Usage
 
