@@ -78,7 +78,7 @@ To run tests, run the following command:
 
 ```sh
 you can either run test_streamlit.py
-or type run streamlit run test_streamlit.py in the terminal
+or type streamlit run test_streamlit.py in the terminal
 ```
 
 ## Authors <a name="authors"></a>
