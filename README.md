@@ -30,14 +30,12 @@ https://github.com/AmirRezaEskandarani/story_generator/assets/67962468/88df6edf-
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 - **story generation with topic**
 - **customize by your own dataset**
 - **reuse the model**
 
 ## Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
