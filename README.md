@@ -24,7 +24,8 @@
 > a discription of project in about a paragraph.
 
 # Output in streamlit
-https://github.com/AmirRezaEskandarani/story_generator/blob/main/output.mp4
+https://github.com/AmirRezaEskandarani/story_generator/assets/67962468/88df6edf-0c08-4e32-b0fb-d53dd0579262
+
 
 ## Built With <a name="built-with"></a>
 
