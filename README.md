@@ -20,8 +20,7 @@
 - [License](#license)
 
 # Story Generator <a name="about-project"></a>
-> a decorative picture or a screenshot of the project results.
-> a discription of project in about a paragraph.
+> Story generation using a prompt
 
 # Output in streamlit
 https://github.com/AmirRezaEskandarani/story_generator/assets/67962468/88df6edf-0c08-4e32-b0fb-d53dd0579262
