@@ -37,6 +37,7 @@ https://github.com/AmirRezaEskandarani/story_generator/assets/67962468/88df6edf-
 ## Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+**note: if you you want to test the model you should run the story_generator.ipynb file to save the model, I didn't upload the model here because it required so much space**
 
 ### Prerequisites
 
