@@ -87,9 +87,8 @@ or type run streamlit run test_streamlit.py in the terminal
 > Mention all of the collaborators of this project.
 **Amirreza Eskandarani**
 
-- GitHub: [@githubhandle](https://github.com/test)
-- Twitter: [@twitterhandle](https://twitter.com/test)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/test)
+- GitHub: [@AmirRezaEskandarani](https://github.com/AmirRezaEskandarani)
+- LinkedIn: [amirreza-eskandarani](https://linkedin.com/in/amirreza-eskandarani/)
 
 
 ## Show your support <a name="support"></a>
