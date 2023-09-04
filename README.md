@@ -26,7 +26,7 @@ https://github.com/AmirRezaEskandarani/story_generator/assets/67962468/88df6edf-
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> For this project, I used GPT-2 model from transformers and used torch to train it with my dataset. also, I used streamlit to test the project in a better view  .
 
 ### Key Features <a name="key-features"></a>
 
