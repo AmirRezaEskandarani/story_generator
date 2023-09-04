@@ -13,10 +13,7 @@
   - [Usage](#usage)
   - [Run tests](#run-tests)
 - [Authors](#authors)
-- [Future Features](#future-features)
-- [Contributing](#contributing)
 - [Show your support](#support)
-- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 # Story Generator <a name="about-project"></a>
@@ -35,9 +32,9 @@ https://github.com/AmirRezaEskandarani/story_generator/assets/67962468/88df6edf-
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **story generation with topic**
+- **customize by your own dataset**
+- **reuse the model**
 
 ## Getting Started <a name="getting-started"></a>
 
@@ -50,9 +47,14 @@ In order to run this project you need:
 
 ```sh
  !pip install numpy
- !pip install matplotlib
- !pip install imutils
- !pip install opencv-python
+ !pip install pandas
+ !pip install torch
+ !pip install logging
+ !pip install tqdm
+ !pip install argparse
+ !pip install os
+ !pip install transformers 
+ !pip install streamlit
 ```
 
 ### Setup
@@ -61,7 +63,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:AmirRezaEskandarani/story_generator.git
 ```
 
 ### Install
@@ -74,10 +76,10 @@ something
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project:
 
 ```sh
-something
+just run all cells of the story_generator.ipynb
 ```
 
 ### Run tests
@@ -85,49 +87,24 @@ something
 To run tests, run the following command:
 
 ```sh
-something
+you can either run test_streamlit.py
+or type run streamlit run test_streamlit.py in the terminal
 ```
 
 ## Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
-**Author1**
+**Amirreza Eskandarani**
 
 - GitHub: [@githubhandle](https://github.com/test)
 - Twitter: [@twitterhandle](https://twitter.com/test)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/test)
 
-**Author2**
-
-- GitHub: [@githubhandle](https://github.com/test)
-- Twitter: [@twitterhandle](https://twitter.com/test)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/test)
-
-
-## Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-## Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please give us a ⭐
 
-## Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
 
 ## License <a name="license"></a>
 
